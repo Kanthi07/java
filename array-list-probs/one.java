@@ -1,4 +1,4 @@
-package arrayList;
+
 
 import java.util.ArrayList;
 
@@ -7,7 +7,7 @@ public class one {
         ArrayList<Integer> grades=new ArrayList<>();
         grades.add(1);
         grades.add(2);
-        grades.add(2);
+        grades.add(3);
         grades.add(4);
         grades.add(5);
         int sum=0;
